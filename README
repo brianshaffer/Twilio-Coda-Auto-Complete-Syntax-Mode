@@ -1,0 +1,12 @@
+DESCRIPTION
+This is a plugin for Coda, a very popular text editor for mac, that allows you to write Twilio apps more quickly. When you're typing out TwiML, it automatically completes your verbs and shows you all of the attribute options. No more switching between Coda and the Twilio documentation page!
+
+
+INSTALLATION
+1. Copy the new Twilio.mode folder to: ~/Library/Application Support/Coda/Modes
+2. Reboot Coda, and under Text > Syntax Mode you’ll see Twilio
+
+
+ABOUT
+Blog post: http://brianshaffer.com/twilio-syntax-auto-complete-mode-for-coda/
+Twitter: http://twitter.com/brianshaffer
